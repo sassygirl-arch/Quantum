@@ -23,9 +23,9 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Quantum made by ryuki", // required by Discord API, not shown in the client
-        state: "Searching RyukXd",     // this is what people actually see
-        type: 3,               // Custom
+        name: "Taken By Ryuk", // required by Discord API, not shown in the client
+        state: "LISTENING TO GOD karan aujla",     // this is what people actually see
+        type: 0,               // Custom
       },
     ],
   },
